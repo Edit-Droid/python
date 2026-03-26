@@ -1,6 +1,11 @@
 Atlantis
 --------
 
+
+Start with mouse drawing circles
+Then images
+In parallel use lines etc. to make the input part of the screen
+
 clear_screen
 
 Dimensions: The plotting area is 320 pixels wide by 220 pixels high, allowing space for soft menu keys.
